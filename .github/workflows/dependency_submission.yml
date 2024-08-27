@@ -1,4 +1,4 @@
-name: Java CI with Gradle
+name: Dependency Graph Submission
 
 on:
   push:
