@@ -3,7 +3,7 @@ plugins {
     id("maven-publish")
 }
 
-group = "uk.nhs.nia"
+group = "uk.nhs.nia.gp2gp.schema"
 version = "1.0"
 
 repositories {
