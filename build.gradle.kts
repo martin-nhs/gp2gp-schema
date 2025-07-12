@@ -12,7 +12,7 @@ repositories {
 
 dependencies {
     implementation("jakarta.xml.bind:jakarta.xml.bind-api:4.0.2")
-    implementation("org.apache.commons:commons-lang3:3.16.0")
+    implementation("org.apache.commons:commons-lang3:3.18.0")
     implementation("com.sun.xml.bind:jaxb-impl:4.0.5")
 
     testImplementation(platform("org.junit:junit-bom:5.10.0"))
